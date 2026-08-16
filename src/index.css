@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+:root {
+  --umbrella-red: #a6193c;
+  --umbrella-dark-red: #7f102f;
+  --umbrella-navy: #17243a;
+  --umbrella-light: #f6f7f9;
+  --umbrella-white: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, Arial, sans-serif;
+  background: var(--umbrella-white);
+  color: var(--umbrella-navy);
+}
+
+a {
+  text-decoration: none;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
