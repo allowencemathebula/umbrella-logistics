@@ -70,5 +70,5 @@ The site will be available at `http://localhost:5173`.
 
 ## Author
 
-Built by [Your Name] — Computer Science student.  
-[LinkedIn](your-link-here) · [Portfolio](your-link-here)
+Built by Allowence Thato Mathebula — Computer Science student.  
+[LinkedIn](www.linkedin.com/in/allowence-thato-mathebula-3a271a415) 
