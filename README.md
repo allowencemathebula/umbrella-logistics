@@ -33,7 +33,7 @@ A full-stack logistics and freight-tracking web application built as a personal/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR-USERNAME/umbrella-logistics.git
+git clone https://github.com/allowencemathebula/umbrella-logistics.git
 cd umbrella-logistics
 ```
 
